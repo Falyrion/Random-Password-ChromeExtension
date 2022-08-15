@@ -32,3 +32,11 @@ A lightweight extension for the Google Chrome Browser to generate random passwor
         <i>Icon for Extensions Bar</i>
     </p>
 </p>
+
+# Installation
+
+This extension is not yet available in the Chrome Web Store. To use it you have to do the following steps:
+
+1. Download the [src folder](src)
+2. Go to [chrome://extensions/](chrome://extensions/) in your chrome browser and enable developer mode in the top right corner
+3. Choose "Load unpacked extension" and upload the src folder
